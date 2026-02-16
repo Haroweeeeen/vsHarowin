@@ -1,6 +1,14 @@
 {
-  "title":"ついに v2",
-  "context":"0.7.0だしたぞ\nあたらしいweek追加されるしばかむずいからがんばってやって\n\n追記:\nデータが消えるバグが存在したので0.7.1配信中です。(被害者二名)",
-  "date":"2025/12/22",
-  "newsID":12
+  "newtitle":{
+    "japanese":"vs. harowinxについて",
+    "english":"about vs. harowin"
+  },
+  "newcontext":{
+    "japanese":"いろんなプレイヤーがエンディングを見られるようにしたい",
+    "english":"We want to make sure all kinds of players can watch this game ending."
+  },
+  "title":"vs. harowinについて",
+  "context":"いろんなプレイヤーがエンディングを見られるようにしたい",
+  "date":"2026/2/17",
+  "newsID":13
 }
