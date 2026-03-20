@@ -1,14 +1,14 @@
 {
   "newtitle":{
-    "japanese":"vs. harowinxについて",
-    "english":"about vs. harowin"
+    "japanese":"0.8.0 alpha1",
+    "english":"0.8.0 alpha1"
   },
   "newcontext":{
-    "japanese":"いろんなプレイヤーがエンディングを見られるようにしたい",
-    "english":"We want to make sure all kinds of players can watch this game ending."
+    "japanese":"新しいバージョン「0.8.0-alpha1」をアップロードしました。詳細はgithubをご覧ください。",
+    "english":"We have uploaded the new version, “0.8.0-alpha1.” Please see GitHub for details."
   },
-  "title":"vs. harowinについて",
-  "context":"いろんなプレイヤーがエンディングを見られるようにしたい",
-  "date":"2026/2/18",
-  "newsID":14
+  "title":"0.8.0 alpha1",
+  "context":"新しいバージョン「0.8.0-alpha1」をアップロードしました。詳細はgithubをご覧ください。",
+  "date":"2026/3/21",
+  "newsID":16
 }
